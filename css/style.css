@@ -4375,28 +4375,28 @@ h6 {
 /* line 257, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_elements.scss */
 .genric-btn.info {
   color: #fff;
-  background: #38a4ff;
+  background: #E0A54B;
   border: 1px solid transparent;
 }
 
 /* line 261, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_elements.scss */
 .genric-btn.info:hover {
-  color: #38a4ff;
-  border: 1px solid #38a4ff;
+  color: #E0A54B;
+  border: 1px solid #E0A54B;
   background: #fff;
 }
 
 /* line 267, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_elements.scss */
 .genric-btn.info-border {
-  color: #38a4ff;
-  border: 1px solid #38a4ff;
+  color: #E0A54B;
+  border: 1px solid #E0A54B;
   background: #fff;
 }
 
 /* line 271, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_elements.scss */
 .genric-btn.info-border:hover {
   color: #fff;
-  background: #38a4ff;
+  background: #E0A54B;
   border: 1px solid transparent;
 }
 
