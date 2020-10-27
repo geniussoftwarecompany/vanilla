@@ -881,7 +881,7 @@ h3 {
 /* line 16, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area {
   padding: 20px 200px;
-  background: #2F99FA;
+  background: #E0A54B;
   background: transparent;
 }
 
@@ -897,7 +897,7 @@ h3 {
   /* line 16, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
   .header-area .main-header-area {
     padding: 10px 15px;
-    background: #2f99fa;
+    background: #E0A54B;
   }
 }
 
@@ -1082,7 +1082,7 @@ h3 {
 
 /* line 157, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #104877;
+  color: #E0A54B;
   font-size: 20px;
   text-transform: none;
   font-weight: 300;
@@ -1145,7 +1145,7 @@ h3 {
   background: #fff;
   width: 200px;
   z-index: 2;
-  box-shadow: 0 0 10px #2f99fa;
+  box-shadow: 0 0 10px #E0A54B;
   opacity: 0;
   visibility: hidden;
   text-align: left;
@@ -1169,7 +1169,7 @@ h3 {
   -o-transition: 0.3s;
   transition: 0.3s;
   display: block;
-  color: #104877;
+  color: #E0A54B;
 }
 
 /* line 231, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
@@ -1179,7 +1179,7 @@ h3 {
 
 /* line 235, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu li:hover a {
-  color: #2f99fa;
+  color: #E0A54B;
 }
 
 /* line 240, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
@@ -3527,7 +3527,7 @@ h3 {
 /* line 14, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area .single_service .thumb {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #104877;
+  background: #E0A54B;
   width: 110px;
   height: 110px;
   text-align: center;
@@ -3546,7 +3546,7 @@ h3 {
 
 /* line 37, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
 .service_area .col-lg-4:nth-child(2) .single_service .thumb {
-  background: #104877;
+  background: #E0A54B;
 }
 
 /* line 46, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_service.scss */
