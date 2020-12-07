@@ -1420,7 +1420,7 @@ h3 {
 
 /* line 44, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
-  color: #FFF;
+  color: #e79954;
   font-family: "Poppins", sans-serif;
   font-size: 30px;
   letter-spacing: 1px;
@@ -1483,7 +1483,7 @@ h3 {
 .slider_area .single_slider .slider_text p {
   font-size: 20px;
   font-weight: 400;
-  color: #FFFFFF;
+  color:  #e79954;
   margin-bottom: 200px;
   margin-top: 20px;
   letter-spacing: 1px;
